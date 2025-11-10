@@ -1,2 +1,2 @@
 # Design_Profissional_UDF
-Paea atividade da disciplina Desing Profissional
+Para atividade da disciplina Desing Profissional
